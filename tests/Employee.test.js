@@ -5,7 +5,7 @@ describe('Employee', () => {
     test("should get values for constructors in Employee object", () => {
         expect(newEmployee.name).toBe('Eric');
         expect(newEmployee.id).toBe('10');
-        expect(newEmployee.email);
+        expect(newEmployee.email).toBe("employee@email.com")
     })
     
     test("should get name from getName() method", () => {

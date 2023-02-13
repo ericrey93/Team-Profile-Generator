@@ -15,6 +15,8 @@ Using this code will help you create your very own team page! You will have the 
 
 ![location of generated page](./assets/where%20the%20page%20is%20generated.png)
 
+[Link to Video](./assets/Video%20demo%20for%20hw.webm)
+
 
 ## Installation
 
